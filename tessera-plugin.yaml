@@ -1,8 +1,8 @@
-id: alarmclock
+id: alarmclocky
 version: 0.3.8
 api: '0.18'
 icon: alarm
-maintainer: Karlstahl1982
+maintainer: Karlstahl1982@mutanwulf
 license: MIT
 stage: beta
 topics:
